@@ -47,6 +47,11 @@ I also used xPath and CSS to check for elements. They worked well altogether. I 
 - Windows 10 (OS)
 
 ### Instructions:
+- Step 1: Download Visual Studio (If you don't have already)
+- Step 2: Download Google Chrome (If you don't have already)
+- Step 3: Clone this project
+- Step 4: Once downloading is finished, open it up using Visual Studio
+- Step 5: Click run at the top and choose whichever console app you want to run
 
 ### What I learned:
 - Xpath
