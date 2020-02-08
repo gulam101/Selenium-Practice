@@ -58,4 +58,4 @@ I also used xPath and CSS to check for elements. They worked well alltogether.I 
 ### Screenshots:
 
 ### Credits:
-
+- Tod Vachev
