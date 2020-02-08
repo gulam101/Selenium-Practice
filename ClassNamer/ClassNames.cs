@@ -14,8 +14,7 @@ class ClassName
     {
         string URLlink = "http://testing.todorvachev.com/selectors/class-name/";
         string cssPath = "#post-108 > div > figure > img";
-        string xPath = "//*[@id=\"post-108\"]/div/figure/img";
-        string className = "testClass";
+        string xPath = "//*[@id=\"post-107\"]/div/figure/img";
 
         //Initalise the chrome client
         IWebDriver driver = new ChromeDriver();
@@ -24,10 +23,14 @@ class ClassName
 
         //Creates our var called element
         //Then it finds the elemnt called "ClassName"
-        IWebElement element = driver.FindElement(By.ClassName(className));
+        IWebElement element = driver.FindElement(By.XPath(xPath));
+        IWebElement elementTwo = driver.FindElement(By.CssSelector(cssPath));
 
-        //Calls the element text
-        Console.WriteLine(element.Text);
+       if(elementTwo.Displayed)
+        {
+            Console.WriteLine("I can see the CSS path element!");
+        }
+        
 
         //Quits the application
         driver.Quit();

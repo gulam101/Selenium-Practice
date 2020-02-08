@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTut", "SeleniumTut\SeleniumTut.csproj", "{41E5C0D9-C666-4700-9DCB-B64BF2E92C44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassNamer", "ClassNamer\ClassNamer.csproj", "{EEEB819C-AC78-4EC4-BAE3-E09B34485AC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassName", "ClassNamer\ClassName.csproj", "{EEEB819C-AC78-4EC4-BAE3-E09B34485AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSS and Xpath", "CSS and Xpath\CSS and Xpath.csproj", "{15CE980C-5FD1-4F0A-AFA1-C9507C53E16C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EEEB819C-AC78-4EC4-BAE3-E09B34485AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEEB819C-AC78-4EC4-BAE3-E09B34485AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEEB819C-AC78-4EC4-BAE3-E09B34485AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CE980C-5FD1-4F0A-AFA1-C9507C53E16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CE980C-5FD1-4F0A-AFA1-C9507C53E16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CE980C-5FD1-4F0A-AFA1-C9507C53E16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CE980C-5FD1-4F0A-AFA1-C9507C53E16C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
