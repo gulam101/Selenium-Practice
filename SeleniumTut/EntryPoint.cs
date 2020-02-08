@@ -6,13 +6,22 @@ class EntryPoint
   {
      static void Main(string[] args)
      {
-        //Initalise the client
+        //Initalise the chrome client
         IWebDriver driver = new ChromeDriver();
 
-        driver.Navigate().GoToUrl("www.google.com");
+        driver.Navigate().GoToUrl("http://google.com");
 
+        IWebElement element = driver.FindElement(By.Id("lga"));
+
+        if(element.Displayed)
+        {
+            System.Console.WriteLine("Hello World!");
+        }
+
+        //Shows for 3 seconds
         Thread.Sleep(3000);
 
+        //Quits the application
         driver.Quit();
      }
   }
