@@ -14,8 +14,8 @@
 [Planned Features](#Planned_Features)  
 <a name="Planned_Features"/>
 
-[What I learnt](#What_I_Learnt)  
-<a name="What_I_Learnt"/>
+[What I learned](#What_I_Learned)  
+<a name="What_I_Learned"/>
 
 [Constraints](#Constraints)  
 <a name="Constraints"/>
