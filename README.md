@@ -47,7 +47,7 @@ I also used xPath and CSS to check for elements. They worked well altogether. I 
 
 ### Instructions:
 
-### What I learnt:
+### What I learned:
 - Xpath
 - CSS elements
 - Better understanding of Selenium
