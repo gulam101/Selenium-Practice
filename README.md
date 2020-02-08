@@ -42,6 +42,8 @@ This project is testing a websites element and displaying if it worked by using 
 I also used xPath and CSS to check for elements. They worked well altogether. I wanted to focus on testing so that I can get used to working with different frameworks and gain a better understanding of how they work. I followed this tutorial from a Udemy course, teaching Selenium
 
 ### Prerequisites:
+- Google Chrome (Must be Chrome, no other browser)
+- Visual Studio (Must default in Chrome)
 
 ### Instructions:
 
