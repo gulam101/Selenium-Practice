@@ -69,6 +69,9 @@ This is the improvement section. I order all improvements by an ID which I can r
 ### Development Changes:
 
 ### Resources:
+- https://visualstudio.microsoft.com/
+- https://selenium.dev/
+- https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DAndroid&hl=en
 
 ### Screenshots:
 
