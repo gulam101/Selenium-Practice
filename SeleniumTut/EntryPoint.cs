@@ -32,7 +32,7 @@ class EntryPoint
     public static void RedMessage(string message)
     {
         //Should display this if it works!
-        Console.ForegroundColor = ConsoleColor.Green;
+        Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine(message);
         Console.ResetColor();
     }
@@ -41,7 +41,7 @@ class EntryPoint
     public static void GreenMessage(string message)
     {
         //Incorrect message!
-        Console.ForegroundColor = ConsoleColor.Red;
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine(message);
         Console.ResetColor();
     }
