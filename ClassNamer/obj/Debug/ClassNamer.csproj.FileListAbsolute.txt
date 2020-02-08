@@ -1,0 +1,11 @@
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\bin\Debug\ClassNamer.exe.config
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\bin\Debug\ClassNamer.exe
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\bin\Debug\ClassNamer.pdb
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\bin\Debug\WebDriver.dll
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\bin\Debug\WebDriver.xml
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\obj\Debug\ClassNamer.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\obj\Debug\ClassNamer.csproj.CopyComplete
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\obj\Debug\ClassNamer.exe
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\obj\Debug\ClassNamer.pdb
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\bin\Debug\WebDriver.Support.dll
+D:\Projects\C# Projects\SeleniumTut\ClassNamer\bin\Debug\WebDriver.Support.xml
