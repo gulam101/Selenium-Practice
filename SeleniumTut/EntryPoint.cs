@@ -15,11 +15,11 @@ class EntryPoint
 
         if(element.Displayed)
         {
-            System.Console.BackgroundColor = System.ConsoleColor.Green;
+            System.Console.ForegroundColor = System.ConsoleColor.Green;
             System.Console.WriteLine("Hello World!");
         } else
         {
-            System.Console.BackgroundColor = System.ConsoleColor.Red;
+            System.Console.ForegroundColor = System.ConsoleColor.Red;
             System.Console.WriteLine("Well, something went worng!");
         }
 
