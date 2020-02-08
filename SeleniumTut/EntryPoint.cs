@@ -16,10 +16,10 @@ class EntryPoint
         if(element.Displayed)
         {
             System.Console.WriteLine("Hello World!");
+        } else
+        {
+            System.Console.WriteLine("Well, something went worng!");
         }
-
-        //Shows for 3 seconds
-        Thread.Sleep(3000);
 
         //Quits the application
         driver.Quit();
