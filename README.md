@@ -44,6 +44,7 @@ I also used xPath and CSS to check for elements. They worked well altogether. I 
 ### Prerequisites:
 - Google Chrome (Must be Chrome, no other browser)
 - Visual Studio (Must default in Chrome)
+- Windows 10 (OS)
 
 ### Instructions:
 
