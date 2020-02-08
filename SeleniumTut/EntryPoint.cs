@@ -15,10 +15,12 @@ class EntryPoint
 
         if(element.Displayed)
         {
+            //Should display this if it works!
             System.Console.ForegroundColor = System.ConsoleColor.Green;
             System.Console.WriteLine("Hello World!");
         } else
         {
+            //Warning message
             System.Console.ForegroundColor = System.ConsoleColor.Red;
             System.Console.WriteLine("Well, something went worng!");
         }
