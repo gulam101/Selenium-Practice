@@ -46,6 +46,9 @@ I also used xPath and CSS to check for elements. They worked well alltogether.I 
 ### Instructions:
 
 ### What I learnt:
+- Xpath
+- CSS elements
+- Better understanding of Selenium
 
 ### Constraints:
 
@@ -58,4 +61,4 @@ I also used xPath and CSS to check for elements. They worked well alltogether.I 
 ### Screenshots:
 
 ### Credits:
-- Tod Vachev
+- Tod Vachev (udemy Course)
