@@ -61,6 +61,10 @@ I also used xPath and CSS to check for elements. They worked well altogether. I 
 ### Constraints:
 
 ### Improvements:
+This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
+
+- Improvement ID:
+- Description: 
 
 ### Development Changes:
 
