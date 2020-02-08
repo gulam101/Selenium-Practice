@@ -6,15 +6,15 @@ class EntryPoint
   {
      static void Main(string[] args)
      {
-        //URL link
         string URLlink = "http://google.com";
+        string ID = "lga";
 
         //Initalise the chrome client
         IWebDriver driver = new ChromeDriver();
 
         driver.Navigate().GoToUrl(URLlink);
 
-        IWebElement element = driver.FindElement(By.Id("lga"));
+        IWebElement element = driver.FindElement(By.Id(ID));
 
         if(element.Displayed)
         {
@@ -45,7 +45,5 @@ class EntryPoint
         Console.WriteLine(message);
         Console.ResetColor();
     }
-
-
 }
 
