@@ -37,9 +37,9 @@
 
 ### Description: 
 
-This project is testing a websites elements and displaying if it worked by using console to check if it worked. The website was a dummy and it was intended for me to test it. I used to console and tested an element on the website and once I knew it was working I used an IF statement that would give me a message telling me that the image worked and if it didn't it would give me an error message.
+This project is testing a websites element and displaying if it worked by using console to check if it worked. The website was a dummy and it was intended for me to test it. I used to console and tested an element on the website and once I knew it was working, I used an IF statement that would give me a message telling me that the image worked and if it didn't it would give me an error message.
 
-I also used xPath and CSS to check for elements. They worked well alltogether.I wanted to focus on testing. I followed this tutorial from a Udemy course, teaching Selenium.
+I also used xPath and CSS to check for elements. They worked well altogether. I wanted to focus on testing so that I can get used to working with different frameworks and gain a better understanding of how they work. I followed this tutorial from a Udemy course, teaching Selenium
 
 ### Prerequisites:
 
